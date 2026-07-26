@@ -22,4 +22,10 @@ CLERK_JWT_ISSUER_DOMAIN=
 NEXT_PUBLIC_UNSPLASH_ACCESS_KEY=
 
 GEMINI_API_KEY=
-```
+# AI Event Organiser (Spott)
+
+## Live Demo
+https://ai-event-organiser-9oir33sua-digvijay87677s-projects.vercel.app
+
+## GitHub Repository
+https://github.com/Digvijay87677/ai-event-organiser```
